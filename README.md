@@ -10,7 +10,7 @@
  --------------------------------------------------------------------------------------------------------------------------
  
 <p align="center">
-    <a href="">Relatório</a>
+    <a href="https://github.com/DilliKel/KelvinAraujo_Manjaro_OS_RR_2022/blob/main/Relat%C3%B3rio%20e%20Apresenta%C3%A7%C3%A3o/Relat%C3%B3rio%20Manjaro%20Linux.pdf">Relatório</a>
     |
     <a href="">Slides</a>
     |
